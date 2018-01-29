@@ -18,3 +18,13 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+#### Or
+
+you can download the zip file from "clone or download";
+unzip it on your local machine
+and then go under that file
+in terminal type:
+```
+> npm install
+> npm start
+```
